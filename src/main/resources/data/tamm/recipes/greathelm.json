@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "ESE",
+    "RER"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_helmet"
+    },
+    "R": {
+      "item": "tamm:steel_ingot"
+    },
+    "E": {
+      "item": "minecraft:white_wool"
+    }
+
+  },
+  "result": {
+    "item": "tamm:greathelm"
+  }
+}

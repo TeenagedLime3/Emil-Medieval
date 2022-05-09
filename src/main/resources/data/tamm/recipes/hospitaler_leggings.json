@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RSR"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_leggings"
+    },
+    "R": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "tamm:hospitaler_leggings"
+  }
+}

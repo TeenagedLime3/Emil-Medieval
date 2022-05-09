@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "tamm:templar_leggings"
+    }
+  ],
+  "result": {
+    "item": "tamm:teutonic_leggings"
+  }
+}

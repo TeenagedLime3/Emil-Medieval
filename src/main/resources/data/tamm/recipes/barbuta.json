@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tamm:barbuta"
+  }
+}

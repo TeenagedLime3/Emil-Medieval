@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR",
+    "SR",
+    "S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "tamm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tamm:steel_axe"
+  }
+}

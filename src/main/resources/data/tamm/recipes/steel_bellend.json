@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RSR",
+    "RRR"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:raw_iron"
+    },
+    "R": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "tamm:steel_blend"
+  }
+}

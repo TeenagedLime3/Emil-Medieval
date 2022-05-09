@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RSR",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "R": {
+      "item": "tamm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tamm:sutton_hoo_helmet"
+  }
+}

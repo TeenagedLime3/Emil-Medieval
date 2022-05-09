@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  R",
+    " RR",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "tamm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tamm:falchion"
+  }
+}

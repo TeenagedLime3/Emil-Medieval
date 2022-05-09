@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "ESE",
+    "RER"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_chestplate"
+    },
+    "R": {
+      "item": "minecraft:black_wool"
+    },
+    "E": {
+      "item": "minecraft:white_wool"
+    }
+
+  },
+  "result": {
+    "item": "tamm:hospitaler_chestplate"
+  }
+}

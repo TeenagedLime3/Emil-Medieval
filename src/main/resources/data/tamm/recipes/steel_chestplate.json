@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "tamm:steel_chestplate"
+  }
+}
+

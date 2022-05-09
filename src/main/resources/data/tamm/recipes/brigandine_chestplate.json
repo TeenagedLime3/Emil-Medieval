@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RSR",
+    "RRR"
+  ],
+  "key": {
+    "S": {
+      "item": "tamm:steel_chestplate"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "tamm:brigandine_chestplate"
+  }
+}
