@@ -1,6 +1,7 @@
 This page will report on all updates since the very first version.
 If the most up-to-date version in this document is not the most up-to-date version on GitHub please contact me at TeenagedLime3#4529 on discord.
 
-V0.1 - 1.18.2
+V1.0 - 1.18.2
 Code Updates:
 -> Updates mappings to parchment
+-> Added all planned items
