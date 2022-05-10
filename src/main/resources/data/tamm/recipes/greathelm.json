@@ -7,10 +7,10 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:steel_helmet"
+      "item": "emilmedieval:steel_helmet"
     },
     "R": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     },
     "E": {
       "item": "minecraft:white_wool"
@@ -18,6 +18,6 @@
 
   },
   "result": {
-    "item": "tamm:greathelm"
+    "item": "emilmedieval:greathelm"
   }
 }

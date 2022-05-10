@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tamm:teutonic_leggings"
+      "item": "emilmedieval:teutonic_leggings"
     }
   ],
   "result": {
-    "item": "tamm:templar_leggings"
+    "item": "emilmedieval:templar_leggings"
   }
 }

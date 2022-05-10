@@ -7,13 +7,13 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:steel_chestplate"
+      "item": "emilmedieval:steel_chestplate"
     },
     "R": {
       "item": "minecraft:red_wool"
     }
   },
   "result": {
-    "item": "tamm:brigandine_chestplate"
+    "item": "emilmedieval:brigandine_chestplate"
   }
 }

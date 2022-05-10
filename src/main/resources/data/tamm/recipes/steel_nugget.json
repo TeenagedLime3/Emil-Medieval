@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   ],
   "result": {
-    "item": "tamm:steel_nugget",
+    "item": "emilmedieval:steel_nugget",
     "count": 9
   }
 }

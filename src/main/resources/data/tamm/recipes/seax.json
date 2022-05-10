@@ -7,13 +7,13 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:dagger"
+      "item": "emilmedieval:dagger"
     },
     "R": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   },
   "result": {
-    "item": "tamm:seax"
+    "item": "emilmedieval:seax"
   }
 }

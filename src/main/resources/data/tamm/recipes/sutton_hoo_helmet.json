@@ -10,10 +10,10 @@
       "item": "minecraft:nether_star"
     },
     "R": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   },
   "result": {
-    "item": "tamm:sutton_hoo_helmet"
+    "item": "emilmedieval:sutton_hoo_helmet"
   }
 }

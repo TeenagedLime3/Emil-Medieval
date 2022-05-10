@@ -7,11 +7,11 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   },
   "result": {
-    "item": "tamm:steel_chestplate"
+    "item": "emilmedieval:steel_chestplate"
   }
 }
 

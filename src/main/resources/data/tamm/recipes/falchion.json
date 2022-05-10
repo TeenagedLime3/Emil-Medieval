@@ -10,10 +10,10 @@
       "item": "minecraft:stick"
     },
     "R": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   },
   "result": {
-    "item": "tamm:falchion"
+    "item": "emilmedieval:falchion"
   }
 }

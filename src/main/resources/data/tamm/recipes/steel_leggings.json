@@ -7,10 +7,10 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:steel_ingot"
+      "item": "emilmedieval:steel_ingot"
     }
   },
   "result": {
-    "item": "tamm:steel_leggings"
+    "item": "emilmedieval:steel_leggings"
   }
 }

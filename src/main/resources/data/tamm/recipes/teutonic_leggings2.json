@@ -3,10 +3,10 @@
   "group": "copper_ingot",
   "ingredients": [
     {
-      "item": "tamm:templar_leggings"
+      "item": "emilmedieval:templar_leggings"
     }
   ],
   "result": {
-    "item": "tamm:teutonic_leggings"
+    "item": "emilmedieval:teutonic_leggings"
   }
 }

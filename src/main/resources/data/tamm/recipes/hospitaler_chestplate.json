@@ -7,7 +7,7 @@
   ],
   "key": {
     "S": {
-      "item": "tamm:steel_chestplate"
+      "item": "emilmedieval:steel_chestplate"
     },
     "R": {
       "item": "minecraft:black_wool"
@@ -18,6 +18,6 @@
 
   },
   "result": {
-    "item": "tamm:hospitaler_chestplate"
+    "item": "emilmedieval:hospitaler_chestplate"
   }
 }
