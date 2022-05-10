@@ -1,6 +1,6 @@
 {
   "parent" : "item/handheld",
   "textures": {
-    "layer0": "tamm:item/seax"
+    "layer0": "emilmedieval:item/seax"
   }
 }

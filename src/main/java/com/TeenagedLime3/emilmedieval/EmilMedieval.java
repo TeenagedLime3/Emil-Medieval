@@ -1,7 +1,7 @@
-package com.TeenagedLime3.tamm;
+package com.TeenagedLime3.emilmedieval;
 
-import com.TeenagedLime3.tamm.block.BlockInit;
-import com.TeenagedLime3.tamm.item.ItemInit;
+import com.TeenagedLime3.emilmedieval.block.BlockInit;
+import com.TeenagedLime3.emilmedieval.item.ItemInit;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -12,15 +12,15 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(TotallyAccurateMedievalMod.MOD_ID)
-public class TotallyAccurateMedievalMod
+@Mod(EmilMedieval.MOD_ID)
+public class EmilMedieval
 {
-    public static final String MOD_ID = "tamm";
+    public static final String MOD_ID = "emilmedieval";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
 
-    public TotallyAccurateMedievalMod() {
+    public EmilMedieval() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ItemInit.register(eventBus);

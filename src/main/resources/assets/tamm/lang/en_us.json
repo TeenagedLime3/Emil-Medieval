@@ -1,49 +1,49 @@
 {
-  "item.tamm.steel_ingot": "Steel Ingot",
-  "item.tamm.steel_blend": "Steel Blend",
-  "item.tamm.steel_nugget": "Steel Nugget",
+  "item.emilmedieval.steel_ingot": "Steel Ingot",
+  "item.emilmedieval.steel_blend": "Steel Blend",
+  "item.emilmedieval.steel_nugget": "Steel Nugget",
 
-  "block.tamm.steel_block": "Steel Block",
+  "block.emilmedieval.steel_block": "Steel Block",
 
-  "item.tamm.steel_sword": "Steel Sword",
-  "item.tamm.steel_pickaxe": "Steel Pickaxe",
-  "item.tamm.steel_shovel": "Steel Shovel",
-  "item.tamm.steel_axe": "Steel Axe",
-  "item.tamm.steel_hoe": "Steel Hoe",
+  "item.emilmedieval.steel_sword": "Steel Sword",
+  "item.emilmedieval.steel_pickaxe": "Steel Pickaxe",
+  "item.emilmedieval.steel_shovel": "Steel Shovel",
+  "item.emilmedieval.steel_axe": "Steel Axe",
+  "item.emilmedieval.steel_hoe": "Steel Hoe",
 
-  "item.tamm.sutton_hoo_helmet": "Sutton Hoo Helmet",
+  "item.emilmedieval.sutton_hoo_helmet": "Sutton Hoo Helmet",
 
-  "item.tamm.greathelm": "Greathelm",
+  "item.emilmedieval.greathelm": "Greathelm",
 
-  "item.tamm.hospitaler_chestplate": "Hospitaler Chestplate",
-  "item.tamm.teutonic_chestplate": "Teutonic Chestplate",
-  "item.tamm.templar_chestplate": "Templar Chestplate",
+  "item.emilmedieval.hospitaler_chestplate": "Hospitaler Chestplate",
+  "item.emilmedieval.teutonic_chestplate": "Teutonic Chestplate",
+  "item.emilmedieval.templar_chestplate": "Templar Chestplate",
 
-  "item.tamm.hospitaler_leggings": "Hospitaler Leggings",
-  "item.tamm.teutonic_leggings": "Teutonic Leggings",
-  "item.tamm.templar_leggings": "Templar Leggings",
+  "item.emilmedieval.hospitaler_leggings": "Hospitaler Leggings",
+  "item.emilmedieval.teutonic_leggings": "Teutonic Leggings",
+  "item.emilmedieval.templar_leggings": "Templar Leggings",
 
-  "item.tamm.crusader_boots": "Crusader Boots",
+  "item.emilmedieval.crusader_boots": "Crusader Boots",
 
-  "item.tamm.gambeson": "Gambeson",
+  "item.emilmedieval.gambeson": "Gambeson",
 
-  "item.tamm.steel_helmet": "Steel Helmet",
-  "item.tamm.steel_chestplate": "Steel Chestplate",
-  "item.tamm.steel_leggings": "Steel Leggings",
-  "item.tamm.steel_boots": "Steel Boots",
+  "item.emilmedieval.steel_helmet": "Steel Helmet",
+  "item.emilmedieval.steel_chestplate": "Steel Chestplate",
+  "item.emilmedieval.steel_leggings": "Steel Leggings",
+  "item.emilmedieval.steel_boots": "Steel Boots",
 
-  "item.tamm.brigandine_helmet": "Brigandine Helmet",
-  "item.tamm.brigandine_chestplate": "Brigandine Chestplate",
-  "item.tamm.brigandine_leggings": "Brigandine Leggings",
-  "item.tamm.brigandine_boots": "Brigandine Boots",
+  "item.emilmedieval.brigandine_helmet": "Brigandine Helmet",
+  "item.emilmedieval.brigandine_chestplate": "Brigandine Chestplate",
+  "item.emilmedieval.brigandine_leggings": "Brigandine Leggings",
+  "item.emilmedieval.brigandine_boots": "Brigandine Boots",
 
-  "item.tamm.bearded_steel_axe": "Bearded Steel Axe",
-  "item.tamm.dagger": "Dagger",
-  "item.tamm.mace": "Mace",
-  "item.tamm.falchion": "Falchion",
-  "item.tamm.seax": "Seax",
-  "item.tamm.warpick": "Warpick",
-  "item.tamm.barbuta": "Barbuta",
+  "item.emilmedieval.bearded_steel_axe": "Bearded Steel Axe",
+  "item.emilmedieval.dagger": "Dagger",
+  "item.emilmedieval.mace": "Mace",
+  "item.emilmedieval.falchion": "Falchion",
+  "item.emilmedieval.seax": "Seax",
+  "item.emilmedieval.warpick": "Warpick",
+  "item.emilmedieval.barbuta": "Barbuta",
 
-  "itemGroup.tamm_tab": "TAMM Tab"
+  "itemGroup.emilmedieval_tab": "emilmedieval Tab"
 }

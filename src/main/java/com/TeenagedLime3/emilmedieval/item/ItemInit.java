@@ -1,17 +1,15 @@
-package com.TeenagedLime3.tamm.item;
+package com.TeenagedLime3.emilmedieval.item;
 
-import com.TeenagedLime3.tamm.TotallyAccurateMedievalMod;
+import com.TeenagedLime3.emilmedieval.EmilMedieval;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import org.lwjgl.system.CallbackI;
 
 public class ItemInit {
-    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, TotallyAccurateMedievalMod.MOD_ID);
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, EmilMedieval.MOD_ID);
 
     public static final RegistryObject<Item> STEEL_INGOT = ITEMS.register("steel_ingot", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TAMM_TAB)));
     public static final RegistryObject<Item> STEEL_BLEND = ITEMS.register("steel_blend", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TAMM_TAB)));

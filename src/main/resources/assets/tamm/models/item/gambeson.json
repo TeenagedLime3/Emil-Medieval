@@ -1,6 +1,6 @@
 {
   "parent" : "item/generated",
   "textures": {
-    "layer0": "tamm:item/gambeson"
+    "layer0": "emilmedieval:item/gambeson"
   }
 }

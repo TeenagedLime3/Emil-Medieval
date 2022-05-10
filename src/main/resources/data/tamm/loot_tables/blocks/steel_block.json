@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tamm:steel_block"
+          "name": "emilmedieval:steel_block"
         }
       ],
       "conditions": [

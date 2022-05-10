@@ -1,8 +1,8 @@
-package com.TeenagedLime3.tamm.item;
+package com.TeenagedLime3.emilmedieval.item;
 
 import java.util.function.Supplier;
 
-import com.TeenagedLime3.tamm.TotallyAccurateMedievalMod;
+import com.TeenagedLime3.emilmedieval.EmilMedieval;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.LazyLoadedValue;
@@ -103,7 +103,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
     }
 
     public String getName() {
-        return TotallyAccurateMedievalMod.MOD_ID + ":" + this.name;
+        return EmilMedieval.MOD_ID + ":" + this.name;
     }
 
     public float getToughness() {

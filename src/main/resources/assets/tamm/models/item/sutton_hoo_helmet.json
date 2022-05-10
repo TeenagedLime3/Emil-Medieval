@@ -1,6 +1,6 @@
 {
   "parent" : "item/generated",
   "textures": {
-    "layer0": "tamm:item/sutton_hoo_helmet"
+    "layer0": "emilmedieval:item/sutton_hoo_helmet"
   }
 }

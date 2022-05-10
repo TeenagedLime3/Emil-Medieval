@@ -1,4 +1,4 @@
-package com.TeenagedLime3.tamm.item;
+package com.TeenagedLime3.emilmedieval.item;
 
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.item.crafting.Ingredient;

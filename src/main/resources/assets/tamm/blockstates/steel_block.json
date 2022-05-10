@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "tamm:block/steel_block" }
+    "": { "model": "emilmedieval:block/steel_block" }
   }
 }

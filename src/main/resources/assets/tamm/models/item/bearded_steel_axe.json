@@ -1,6 +1,6 @@
 {
   "parent" : "item/handheld",
   "textures": {
-    "layer0": "tamm:item/bearded_steel_axe"
+    "layer0": "emilmedieval:item/bearded_steel_axe"
   }
 }
