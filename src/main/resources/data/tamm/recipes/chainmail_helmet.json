@@ -1,14 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " S "
+    "SSS",
+    "S S"
   ],
   "key": {
     "S": {
-      "item": "minecraft:teutonic_leggings"
+      "item": "emilmedieval:steel_nugget"
     }
   },
   "result": {
-    "item": "tamm:templar_leggings"
+    "item": "minecraft:chainmail_helmet"
   }
 }

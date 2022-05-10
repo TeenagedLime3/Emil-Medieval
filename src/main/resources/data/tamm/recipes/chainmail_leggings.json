@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "emilmedieval:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_leggings"
+  }
+}

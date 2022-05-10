@@ -6,13 +6,13 @@
   ],
   "key": {
     "S": {
-      "item": "emilmedieval:steel_leggings"
+      "item": "minecraft:chainmail_leggings"
     },
     "R": {
       "item": "minecraft:black_wool"
     }
   },
   "result": {
-    "item": "emilmedieval:hospitaler_leggings"
+    "item": "tamm:hospitaler_leggings"
   }
 }
